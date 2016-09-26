@@ -1,0 +1,36 @@
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\MvcParty.dll.config
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\MvcParty.dll
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\MvcParty.pdb
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Helpers.dll
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Mvc.dll
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Razor.dll
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Webpages.Deployment.dll
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Webpages.dll
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Webpages.Razor.dll
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Razor.xml
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Webpages.xml
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Webpages.Deployment.xml
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Webpages.Razor.xml
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Helpers.xml
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\bin\System.Web.Mvc.xml
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\obj\Debug\MvcParty.csprojResolveAssemblyReference.cache
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\obj\Debug\MvcParty.dll
+c:\users\adiel jarodien\documents\visual studio 2013\Projects\MvcParty\MvcParty\obj\Debug\MvcParty.pdb
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\MvcParty.dll.config
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\MvcParty.dll
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\MvcParty.pdb
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Helpers.dll
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Mvc.dll
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Razor.dll
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Webpages.Deployment.dll
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Webpages.dll
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Webpages.Razor.dll
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Razor.xml
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Webpages.xml
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Webpages.Deployment.xml
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Webpages.Razor.xml
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Helpers.xml
+E:\Dev\Refs\ex\MvcParty\MvcParty\bin\System.Web.Mvc.xml
+E:\Dev\Refs\ex\MvcParty\MvcParty\obj\Debug\MvcParty.csprojResolveAssemblyReference.cache
+E:\Dev\Refs\ex\MvcParty\MvcParty\obj\Debug\MvcParty.dll
+E:\Dev\Refs\ex\MvcParty\MvcParty\obj\Debug\MvcParty.pdb
